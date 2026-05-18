@@ -17,9 +17,9 @@
 
 ### 👨‍💻 Engineering Profile
 
-I am a **Full Stack Software Engineer** specializing in modern web infrastructure and scalable architectures. With a strong foundation in open-source development (GSoC, OWASP), I bridge the gap between complex backend systems, performant frontend interfaces, and interactive game development.
+I am a **Full Stack Software Engineer** specializing in modern web infrastructure and scalable architectures. With a strong foundation in open-source development (GSoC), I bridge the gap between complex backend systems, performant frontend interfaces, and interactive game development.
 
-- 🌍 **Open Source:** Major contributor to **Google Summer of Code**, **GSSoC**, and the **OWASP Foundation**.
+- 🌍 **Open Source:** Major contributor to **Google Summer of Code** and **GSSoC**.
 - ⚙️ **Currently Engineering:** Advanced recommendation pipelines and backend infrastructure (Node.js/TypeScript).
 - 🧠 **Currently Learning:** Advanced DSA, distributed systems architecture, and optimizing React render cycles.
 - 🎮 **Game Development:** Designing and programming physics and core mechanics using **Unity & C#**.
